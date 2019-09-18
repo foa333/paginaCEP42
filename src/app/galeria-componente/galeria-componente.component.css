@@ -1,0 +1,9 @@
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 75%;
+    width:100px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    
+    border-radius: 10%;
+   
+}

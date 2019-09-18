@@ -1,0 +1,9 @@
+footer{
+    background-color: #212529;
+    /* color: #fed136; */
+    color:rgba(255, 255, 255, 0.89);
+}
+.far .fa-envelope{
+    border-radius: 150px;
+}
+
